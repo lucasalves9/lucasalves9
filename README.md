@@ -1,4 +1,14 @@
 ## Hi there 👋
+# Eu sou [Lucas Alves]! 👨‍💻
+
+Eu sou iniciante em programação e estou começando minha jornada de aprendizado no GitHub. 🚀
+
+## Tecnologias que estou aprendendo:
+- **HTML** e **CSS**
+- **JavaScript**
+
+## 🚀 Meu Objetivo:
+Melhorar minhas habilidades em desenvolvimento web.
 
 <!--
 **lucasalves9/lucasalves9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
