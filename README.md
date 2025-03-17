@@ -4,9 +4,9 @@
 Eu sou iniciante em programação e estou começando minha jornada de aprendizado no GitHub. 🚀
 
 ## Tecnologias que estou aprendendo:
-- **HTML** e **CSS**
-- **JavaScript**
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
+![lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasalves9&show_icons=true&theme=radical)
 ## 🚀 Meu Objetivo:
 Melhorar minhas habilidades em desenvolvimento web.
 
